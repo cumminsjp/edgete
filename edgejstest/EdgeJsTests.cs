@@ -59,7 +59,6 @@ namespace edgejstest
         public void Eval_Tests()
         {
             Log.Debug("Eval_Tests Enter");
-
             
 
             Start().Wait();
